@@ -1,0 +1,55 @@
+body {
+    background: linear-gradient(180deg, #FCB758 0%, #E67314 100%);
+    width: 1440px;
+    height: 2556px;
+}
+
+ .elipse1 {
+    transform: rotate(21.661deg);
+    background: #88CE63;
+    width: 267px;
+    height: 549px;
+    border-radius: 50%;
+    margin-left: 256px;
+    margin-top: -220px;
+}
+
+ .elipse2 {
+    transform: rotate(-5.252deg);
+    background: #88CE63;
+    width: 267px;
+    height: 549px;
+    border-radius: 50%;
+    margin-left: 400px;
+    margin-top: -540px;
+}
+
+ .elipse3 {
+    transform: rotate(-5.252deg);
+    background: #88CE63;
+    width: 267px;
+    height: 549px;
+    border-radius: 50%;
+    margin-left: 600px;
+    margin-top: -540px;
+}
+
+ .elipse4 {
+    transform: rotate(3.027deg);
+    background: #88CE63;
+    width: 267px;
+    height: 549px;
+    border-radius: 50%;
+    margin-left: 830px;
+    margin-top: -540px;
+}
+
+ .elipse5 {
+    transform: rotate(3.027deg);
+    background: #88CE63;
+    width: 242.344px;
+    height: 551.131px;
+    border-radius: 50%;
+    margin-right: 90px;
+    margin-top: -540px;
+}
