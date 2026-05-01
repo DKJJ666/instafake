@@ -24,6 +24,9 @@ export default function AddComentarios() {
                     <li key={index}>{comentario}</li>
                 ))}
             </ul>
+            <button onClick={() => {
+                
+            }}>Ver Mais</button>
         </div>
     );
 }

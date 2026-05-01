@@ -1,6 +1,7 @@
 .story {
   width: 57px;
   height: 66px;
+  border-radius: 50%;
 }
 
 .story h2 {
