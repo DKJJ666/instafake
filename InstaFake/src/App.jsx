@@ -3,7 +3,7 @@ import AddComentarios from './assets/components/IAddComent✅'
 import LikeButton from './assets/components/RCurtidas✅'
 import IAddPerfil from './assets/components/Story✅'
 import Seguir from './assets/components/ASeguir✅'
-
+import Post from './assets/components/IAddPost'
 
 
 function App() {
@@ -17,6 +17,8 @@ function App() {
       <div class="elipse4"></div>
       <div class="elipse5"></div>
     </section>
+
+    <Post />
 
       <Seguir />
         <IAddPerfil
