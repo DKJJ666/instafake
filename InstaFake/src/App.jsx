@@ -19,14 +19,25 @@ function App() {
     </section>
 
       <Seguir />
-        {/* <IAddPerfil
+        <IAddPerfil
           title="Speed"
           image="https://i.pinimg.com/736x/39/bf/96/39bf96806c4fe1f64430552d61817286.jpg"
-        /> */}
+        />
 
       <IAddPerfil
-        title="Tete"
+        
         image="https://i.pinimg.com/736x/39/bf/96/39bf96806c4fe1f64430552d61817286.jpg"
+        title="Tete"
+      />
+       <IAddPerfil
+        
+        image="https://i.pinimg.com/736x/39/bf/96/39bf96806c4fe1f64430552d61817286.jpg"
+        title="Tete"
+      />
+       <IAddPerfil
+        
+        image="https://i.pinimg.com/736x/39/bf/96/39bf96806c4fe1f64430552d61817286.jpg"
+        title="Tete"
       />
       <AddComentarios />
       <LikeButton />

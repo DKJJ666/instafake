@@ -23,6 +23,7 @@ export default function AddComentarios() {
                 {listaComent.map((comentario, index) => (
                     <li key={index}>{comentario}</li>
                 ))}
+                <li>Nossa que bonitoo!!</li>
             </ul>
             <button onClick={() => {
                 
