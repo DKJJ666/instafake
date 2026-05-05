@@ -1,6 +1,6 @@
 import './App.css'
-//  import AddComentarios from './assets/components/IAddComent'
-//  import LikeButton from './assets/components/RCurtidas'
+ import AddComentarios from './assets/components/IAddComent'
+  // import LikeButton from './assets/components/RCurtidas'
 //  import IAddPerfil from './assets/components/Story'
 //  import Seguir from './assets/components/ASeguir'
 //  import Post from './assets/components/IAddPost'
@@ -33,8 +33,7 @@ function App() {
         <button className="verperfil">Ver Perfil</button>
         </div>
       </div>
-        </section>
-
+       
 <div className="perfil-stories">
 
         {/* <section className="stories">
@@ -61,9 +60,11 @@ function App() {
  </div> */}
 
 </div>
+ </section>
+</div>
 
-      {/* <AddComentarios />
-      <LikeButton />  */}
+  <AddComentarios />
+  <LikeButton />  
 
     </>
   )

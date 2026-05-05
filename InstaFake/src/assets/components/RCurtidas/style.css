@@ -1,0 +1,29 @@
+/* .like {
+  display: flex;
+  align-items: center;
+}
+
+.like-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #888;
+  padding: 4px;
+  border-radius: 20px;
+  transition: color 0.2s, transform 0.15s;
+}
+
+.like-btn:hover {
+  color: #e05555;
+  transform: scale(1.1);
+}
+
+.like-btn.liked {
+  color: #e05555;
+} */
